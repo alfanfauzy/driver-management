@@ -1,0 +1,105 @@
+.driver-container {
+  height: 100%;
+  background-color: white;
+  margin: 0px 15px;
+  width: 12rem;
+  word-break: break-all;
+}
+
+.driver-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.driver-header span {
+  color: red;
+}
+
+.driver-header p {
+  font-size: 0.8rem;
+}
+
+.driver-icon {
+  border-radius: 50%;
+}
+
+.driver-body {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  align-content: center;
+  flex-direction: column;
+}
+
+.driver-data {
+  display: block;
+  margin: auto;
+}
+
+.driver-data p {
+  color: #a1a1a1;
+}
+
+.driver-data h4 {
+  margin-bottom: 20px;
+}
+
+.result-search {
+  display: flex;
+  flex-direction: column;
+}
+
+@media only screen and (max-width: 500px) {
+  .driver-container {
+    height: 100%;
+    background-color: white;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .driver-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+  }
+
+  .driver-header p {
+    font-size: 1.2rem;
+  }
+
+  .driver-icon {
+    border-radius: 50%;
+  }
+
+  .driver-body {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .driver-logo {
+    margin: auto;
+  }
+
+  .driver-data {
+    display: block;
+    margin: auto;
+  }
+
+  .driver-data p {
+    color: #a1a1a1;
+  }
+
+  .driver-data h4 {
+    margin-bottom: 20px;
+  }
+
+  .result-search {
+    height: 100%;
+    flex-direction: column;
+  }
+
+  .data-mobile {
+    display: none;
+  }
+}

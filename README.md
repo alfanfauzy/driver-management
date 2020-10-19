@@ -1,14 +1,16 @@
 # 🚘 DRIVER MANAGEMENT🚘️
 
-WEBSITE VIEW
+Driver Management is website single-page application where show User Driver from API [Random User](https://randomuser.me/api/?results=30)
+
+# 📸 Demo
+
+**WEBSITE VIEW**
 ![Driver Management](https://github.com/alfanfauzy/driver-management/blob/master/screenshoot/Driver-Management-Website.png?raw=true)
 
-
-MOBILE VIEW
-
+**MOBILE VIEW**
 ![Driver Management](https://raw.githubusercontent.com/alfanfauzy/driver-management/master/screenshoot/Driver-Management-Mobile.png)
 
-Driver Management is website single-page application where show User Driver from API [Random User](https://randomuser.me/api/?results=30)
+**Link Demo** : https://alfanfauzy.github.io/driver-management/
 
 # 📌 Features!
 

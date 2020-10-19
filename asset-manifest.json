@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/driver-management/static/css/main.fda12228.chunk.css",
+    "main.js": "/driver-management/static/js/main.f662e39f.chunk.js",
+    "main.js.map": "/driver-management/static/js/main.f662e39f.chunk.js.map",
+    "runtime-main.js": "/driver-management/static/js/runtime-main.2dad2c7c.js",
+    "runtime-main.js.map": "/driver-management/static/js/runtime-main.2dad2c7c.js.map",
+    "static/js/2.c66e791c.chunk.js": "/driver-management/static/js/2.c66e791c.chunk.js",
+    "static/js/2.c66e791c.chunk.js.map": "/driver-management/static/js/2.c66e791c.chunk.js.map",
+    "index.html": "/driver-management/index.html",
+    "precache-manifest.e5fb71f3f8e2787cb1726344a4857db4.js": "/driver-management/precache-manifest.e5fb71f3f8e2787cb1726344a4857db4.js",
+    "service-worker.js": "/driver-management/service-worker.js",
+    "static/css/main.fda12228.chunk.css.map": "/driver-management/static/css/main.fda12228.chunk.css.map",
+    "static/js/2.c66e791c.chunk.js.LICENSE.txt": "/driver-management/static/js/2.c66e791c.chunk.js.LICENSE.txt",
+    "static/media/shipper.svg": "/driver-management/static/media/shipper.e87445d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dad2c7c.js",
+    "static/js/2.c66e791c.chunk.js",
+    "static/css/main.fda12228.chunk.css",
+    "static/js/main.f662e39f.chunk.js"
+  ]
+}

@@ -35,6 +35,14 @@ $ npm start
 
 Website will run at http://localhost:3000
 
+### Build Script
+```sh
+$ npm run build
+$ yarn global add serve
+$ serve -s build
+```
+Website will run at http://localhost:5000
+
 ### License
 ----
 MIT
